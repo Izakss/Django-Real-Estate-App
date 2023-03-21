@@ -20,7 +20,7 @@ class Migration(migrations.Migration):
                 ('num_bathrooms', models.IntegerField()),
                 ('num_bedrooms', models.IntegerField()),
                 ('square_footage', models.IntegerField()),
-                ('address', models.IntegerField()),
+                ('address', models.CharField()),
             ],
         ),
     ]
