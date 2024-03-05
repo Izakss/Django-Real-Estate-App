@@ -54,12 +54,12 @@ Usage
 
 Once the application is running, users can perform the following actions:
 
-Register for a new account or login with existing credentials.
-Browse products by category or use the search functionality to find specific items.
-Add products to the shopping cart and proceed to checkout.
-Enter payment and shipping information securely.
-View order history and track the status of current orders.
-Update user profile information and manage account settings.
+- Register for a new account or login with existing credentials.
+- Browse products by category or use the search functionality to find specific items.
+- Add products to the shopping cart and proceed to checkout.
+- Enter payment and shipping information securely.
+- View order history and track the status of current orders.
+- Update user profile information and manage account settings.
 Contributing
 
 We welcome contributions from the community! If you'd like to contribute to the development of our E-Commerce Web Application, please follow these guidelines:
