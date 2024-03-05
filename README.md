@@ -8,7 +8,7 @@ Usage
 Contributing
 License
 
-Table of Contents
+##Table of Contents
 
 Installation
 Usage
