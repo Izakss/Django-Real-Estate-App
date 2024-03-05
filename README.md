@@ -19,7 +19,7 @@ To get started with Ecommerce App, follow these installation steps:
 git clone https://github.com/yourusername/ecommerce-app.git
 cd ecommerce-app
 
-nstall dependencies:
+##Install dependencies:
 bash
 Copy code
 npm install
