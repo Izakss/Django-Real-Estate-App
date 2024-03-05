@@ -3,13 +3,12 @@ Ecommerce App is a web-based application designed to facilitate online shopping 
 
 
 # Table of Contents
-Installation
-Usage
-Contributing
-License
+##Installation
+##Usage
+##Contributing
+##License
 
-##Table of Contents
-
+#Table of Contents
 Installation
 Usage
 Contributing
